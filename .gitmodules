@@ -1,0 +1,3 @@
+[submodule "diceproject"]
+	path = diceproject
+	url = https://github.com/MohammadAbid1234/diceproject.git
